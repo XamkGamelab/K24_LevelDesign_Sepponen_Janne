@@ -3,7 +3,12 @@ guid: 6df5ceb43b5e7254f90afdf178b9cc04
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - ObjectivePanel: {instanceID: 0}
+  - PrimaryObjectivePrefab: {fileID: 8322339850511969721, guid: 825d6b0d7b3a7394a9f51c7b6900c135,
+      type: 3}
+  - SecondaryObjectivePrefab: {fileID: 8322339850511969721, guid: 418abff609b9b754ba25e34faf58edf4,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
