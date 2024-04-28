@@ -56796,6 +56796,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1023
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1124510582 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 9087143436424816424, guid: e29d43f43cc5d82499dd9926e01847d3,
+    type: 3}
+  m_PrefabInstance: {fileID: 11654777}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3de939d976a5bb0419ccd8dbd0b6836b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1128268842
 GameObject:
   m_ObjectHideFlags: 0
@@ -106914,7 +106926,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   EnemiesToAssign:
-  - {fileID: 0}
+  - {fileID: 1124510582}
   PathNodes:
   - {fileID: 2729281212889745563}
   - {fileID: 2729281214224612182}
